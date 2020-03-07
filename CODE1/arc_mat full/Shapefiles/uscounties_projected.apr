@@ -1,0 +1,1001 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"uscounties.apr"
+	CreationDate:	"Wednesday, December 29, 2004 11:00:51 PM"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	58
+	ActiveDoc:	58
+	Buttons:	124
+	Buttons:	125
+	Buttons:	126
+	Scripts:	127
+	Prefs:	128
+	WorkDir:	956
+	WinX:	-4
+	WinY:	-3
+	WinW:	1288
+	WinH:	777
+	SerialNumber:	"825901102242"
+	SelColor:	957
+	GUINames:	958
+	GUINames:	959
+	GUINames:	960
+	GUINames:	961
+	GUINames:	962
+	GUINames:	963
+	GUINames:	964
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	5
+	Y:	5
+	W:	238
+	H:	324
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(View.6
+	Name:	"View1"
+	CreationDate:	"Wednesday, December 29, 2004 11:00:51 PM"
+	GUIName:	"View"
+	Win:	7
+	CSMgr:	8
+	DocExts:	10
+	DocExts:	11
+	Graphics:	12
+	Theme:	19
+	Dpy:	13
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.7
+	Owner:	6
+	Open:	1
+	X:	20
+	Y:	20
+	W:	478
+	H:	288
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.10
+	Doc:	6
+)
+
+(DocAct.11
+	Doc:	6
+)
+
+(GList.12
+	Dpy:	13
+	FormatNumb:	18
+)
+
+(MapDpy.13
+	Left:	-127.61875114440919
+	Bottom:	23.30199060440063
+	Top:	50.62621107101440
+	Right:	-64.09265174865722
+	Scale:	14
+	FrameTop:	2.60416666666667
+	FrameRight:	3.26041666666667
+	PageDpy:	15
+	FitToPage:	1
+	MouseLoc:	17
+)
+
+(Numb.14
+	N:	0.05132404944864
+)
+
+(PageDpy.15
+	Top:	2.60416666666667
+	Right:	3.26041666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	16
+	ZoomRight:	3.26041666666667
+	ZoomTop:	2.60416666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.16
+	N:	96.00000000000000
+)
+
+(PointD.17
+)
+
+(Numb.18
+)
+
+(FTheme.19
+	Name:	"NEWMETRO.shp"
+	Source:	20
+	Flags:	0x07
+	Legend:	41
+	Threshold:	55
+	View:	6
+	GSet:	56
+	LegEditScript:	"View.EditLegend"
+	TxPos:	57
+	LabelField:	25
+	SnapTolCursor:	1
+)
+
+(ShpSrc.20
+	Name:	21
+	FTab:	23
+)
+
+(SrcName.21
+	FileName:	22
+	Name:	"NEWMETRO.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.22
+	Path:	"C:/JPL/DATA/METRO_~1/NEWMETRO.shp"
+)
+
+(FTab.23
+	Name:	"NEWMETRO.dbf"
+	BTab:	24
+	Fields:	39
+	Fields:	25
+	Fields:	26
+	Fields:	27
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	Fields:	32
+	Fields:	33
+	Fields:	34
+	Fields:	35
+	Fields:	36
+	Fields:	37
+	SelBits:	40
+	FSrc:	20
+)
+
+(dBASE.24
+	Name:	"NEWMETRO.dbf"
+	Fields:	25
+	Fields:	26
+	Fields:	27
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	Fields:	32
+	Fields:	33
+	Fields:	34
+	Fields:	35
+	Fields:	36
+	Fields:	37
+	FileName:	38
+)
+
+(Field.25
+	Name:	"Areaname"
+	Btab:	24
+	Alias:	"Areaname"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.26
+	Name:	"Areakey"
+	Btab:	24
+	Alias:	"Areakey"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.27
+	Name:	"Intptlat"
+	Btab:	24
+	Alias:	"Intptlat"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.28
+	Name:	"Intptlng"
+	Btab:	24
+	Alias:	"Intptlng"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.29
+	Name:	"P0010001"
+	Btab:	24
+	Alias:	"P0010001"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.30
+	Name:	"Im91069d"
+	Btab:	24
+	Alias:	"Im91069d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.31
+	Name:	"Im91075d"
+	Btab:	24
+	Alias:	"Im91075d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.32
+	Name:	"Im91079d"
+	Btab:	24
+	Alias:	"Im91079d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.33
+	Name:	"Im91081d"
+	Btab:	24
+	Alias:	"Im91081d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.34
+	Name:	"Im91083d"
+	Btab:	24
+	Alias:	"Im91083d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.35
+	Name:	"Im91085d"
+	Btab:	24
+	Alias:	"Im91085d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.36
+	Name:	"Im91087d"
+	Btab:	24
+	Alias:	"Im91087d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.37
+	Name:	"Im91089d"
+	Btab:	24
+	Alias:	"Im91089d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.38
+	Path:	"C:/JPL/DATA/METRO_~1/NEWMETRO.dbf"
+)
+
+(Field.39
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.40
+	NumBits:	3111
+
+)
+
+(Legend.41
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	42
+	Class:	47
+	StdDevs:	1.00000000000000
+	NullSym:	48
+	NullValues:	52
+	StatValues:	54
+	Precision:	-3
+)
+
+(SymList.42
+	Child:	43
+)
+
+(BShSym.43
+	Color:	44
+	Outline:	1
+	OutlineColor:	45
+	OutlineWidth:	0.10000000000000
+	BgColor:	46
+)
+
+(TClr.44
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.45
+)
+
+(TClr.46
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.47
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.48
+	Color:	49
+	Outline:	1
+	OutlineColor:	50
+	OutlineWidth:	0.10000000000000
+	BgColor:	51
+)
+
+(TClr.49
+	Name:	"Transparent"
+)
+
+(TClr.50
+	Name:	"Transparent"
+)
+
+(TClr.51
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.52
+	Obj:	53
+)
+
+(Numb.53
+	InternalName:	"Modifier"
+	N:	-99.00000000000000
+)
+
+(NameDict.54
+)
+
+(Thresh.55
+)
+
+(GSet.56
+)
+
+(TxPosPly.57
+	HAlign:	3
+	VAlign:	3
+)
+
+(View.58
+	Name:	"View2"
+	CreationDate:	"Wednesday, December 29, 2004 11:00:54 PM"
+	GUIName:	"View"
+	Win:	59
+	CSMgr:	60
+	DocExts:	62
+	DocExts:	63
+	Graphics:	64
+	Theme:	71
+	Projection:	122
+	LastScale:	21812991.21442734100000
+	Dpy:	65
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.59
+	Owner:	58
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.60
+	Client:	61
+)
+
+(CSClient.61
+	Client:	62
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.62
+	Doc:	58
+)
+
+(DocAct.63
+	Doc:	58
+)
+
+(GList.64
+	Dpy:	65
+	FormatNumb:	70
+)
+
+(MapDpy.65
+	Left:	-3232198.11502731500000
+	Bottom:	-1573884.04187371210000
+	Top:	1842584.40089332030000
+	Right:	3260588.03671437640000
+	ReportUnits:	4
+	Units:	7
+	Scale:	66
+	FrameTop:	6.53125000000000
+	FrameRight:	11.71875000000000
+	PageDpy:	67
+	FitToPage:	1
+	MouseLoc:	69
+)
+
+(Numb.66
+	N:	0.00000180488772
+)
+
+(PageDpy.67
+	Top:	6.53125000000000
+	Right:	11.71875000000000
+	ReportUnits:	1
+	Units:	1
+	Scale:	68
+	ZoomRight:	11.71875000000000
+	ZoomTop:	6.53125000000000
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.68
+	N:	96.00000000000000
+)
+
+(PointD.69
+	x:	-940966.02414602460000
+	y:	119921.76583926729000
+)
+
+(Numb.70
+)
+
+(FTheme.71
+	Name:	"Newmetro.shp"
+	Source:	72
+	Flags:	0x07
+	Legend:	93
+	Threshold:	106
+	View:	58
+	GSet:	107
+	LegEditScript:	"View.EditLegend"
+	TxPos:	108
+	LabelField:	77
+	AttrRules:	109
+	AttrRules:	110
+	AttrRules:	111
+	AttrRules:	112
+	AttrRules:	113
+	AttrRules:	114
+	AttrRules:	115
+	AttrRules:	116
+	AttrRules:	117
+	AttrRules:	118
+	AttrRules:	119
+	AttrRules:	120
+	AttrRules:	121
+	SnapTolCursor:	1
+)
+
+(ShpSrc.72
+	Name:	73
+	FTab:	75
+)
+
+(SrcName.73
+	FileName:	74
+	Name:	"newmetro.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.74
+	Path:	"c:/jpl/data/metro_areas/newmetro.shp"
+)
+
+(FTab.75
+	Name:	"newmetro.dbf"
+	BTab:	76
+	Fields:	91
+	Fields:	77
+	Fields:	78
+	Fields:	79
+	Fields:	80
+	Fields:	81
+	Fields:	82
+	Fields:	83
+	Fields:	84
+	Fields:	85
+	Fields:	86
+	Fields:	87
+	Fields:	88
+	Fields:	89
+	SelBits:	92
+	FSrc:	72
+)
+
+(dBASE.76
+	Name:	"newmetro.dbf"
+	Fields:	77
+	Fields:	78
+	Fields:	79
+	Fields:	80
+	Fields:	81
+	Fields:	82
+	Fields:	83
+	Fields:	84
+	Fields:	85
+	Fields:	86
+	Fields:	87
+	Fields:	88
+	Fields:	89
+	FileName:	90
+)
+
+(Field.77
+	Name:	"Areaname"
+	Btab:	76
+	Alias:	"Areaname"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.78
+	Name:	"Areakey"
+	Btab:	76
+	Alias:	"Areakey"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.79
+	Name:	"Intptlat"
+	Btab:	76
+	Alias:	"Intptlat"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.80
+	Name:	"Intptlng"
+	Btab:	76
+	Alias:	"Intptlng"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.81
+	Name:	"P0010001"
+	Btab:	76
+	Alias:	"P0010001"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.82
+	Name:	"Im91069d"
+	Btab:	76
+	Alias:	"Im91069d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.83
+	Name:	"Im91075d"
+	Btab:	76
+	Alias:	"Im91075d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.84
+	Name:	"Im91079d"
+	Btab:	76
+	Alias:	"Im91079d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.85
+	Name:	"Im91081d"
+	Btab:	76
+	Alias:	"Im91081d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.86
+	Name:	"Im91083d"
+	Btab:	76
+	Alias:	"Im91083d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.87
+	Name:	"Im91085d"
+	Btab:	76
+	Alias:	"Im91085d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.88
+	Name:	"Im91087d"
+	Btab:	76
+	Alias:	"Im91087d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.89
+	Name:	"Im91089d"
+	Btab:	76
+	Alias:	"Im91089d"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.90
+	Path:	"c:/jpl/data/metro_areas/newmetro.dbf"
+)
+
+(Field.91
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.92
+	NumBits:	3111
+
+)
+
+(Legend.93
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	94
+	Class:	99
+	StdDevs:	1.00000000000000
+	NullSym:	100
+	NullValues:	104
+	StatValues:	105
+	Precision:	-3
+)
+
+(SymList.94
+	Child:	95
+)
+
+(BShSym.95
+	Color:	96
+	Outline:	1
+	OutlineColor:	97
+	OutlineWidth:	0.10000000000000
+	BgColor:	98
+)
+
+(TClr.96
+	Red:	0x335
+	Green:	0xb423
+	Blue:	0x2a6b
+)
+
+(TClr.97
+)
+
+(TClr.98
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.99
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.100
+	Color:	101
+	Outline:	1
+	OutlineColor:	102
+	OutlineWidth:	0.10000000000000
+	BgColor:	103
+)
+
+(TClr.101
+	Name:	"Transparent"
+)
+
+(TClr.102
+	Name:	"Transparent"
+)
+
+(TClr.103
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.104
+)
+
+(NameDict.105
+)
+
+(Thresh.106
+)
+
+(GSet.107
+)
+
+(TxPosPly.108
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.109
+	FTab:	75
+	Field:	77
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.110
+	FTab:	75
+	Field:	78
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.111
+	FTab:	75
+	Field:	79
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.112
+	FTab:	75
+	Field:	80
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.113
+	FTab:	75
+	Field:	81
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.114
+	FTab:	75
+	Field:	82
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.115
+	FTab:	75
+	Field:	83
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.116
+	FTab:	75
+	Field:	84
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.117
+	FTab:	75
+	Field:	85
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.118
+	FTab:	75
+	Field:	86
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.119
+	FTab:	75
+	Field:	87
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.120
+	FTab:	75
+	Field:	88
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.121
+	FTab:	75
+	Field:	89
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(Albers.122
+	InternalName:	"Albers Equal-Area Conic"
+	Description:	"Projections of the United States ; Albers Equal-Area (Conterminous U.S.)"
+	Ellipsoid:	123
+	Lambda0:	-1.67551608191456
+	Phi0:	0.65449846949787
+	Phi1:	0.51487212933833
+	Phi2:	0.79412480965742
+)
+
+(Elpsoid.123
+	Radius:	6378206.40000000040000
+	Eccentricity:	0.00676865800000
+	Type:	4
+	Units:	0x07
+)
+
+(LButn.124
+	Update:	"Doc.NewUpdate"
+	Click:	"View.New"
+)
+
+(LButn.125
+	Update:	"Doc.OpenUpdate"
+	Click:	"Doc.Open"
+)
+
+(LButn.126
+	Update:	"Doc.ActionUpdate"
+	Click:	"Doc.Action"
+)
+
+(NameDict.127
+)
+
+(NameDict.128
+	Obj:	129
+	Obj:	130
+)
+
+(AVDict.129
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.130
+	InternalName:	"_Thor_"
+)
+
+(FN.956
+	Path:	"$HOME"
+)
+
+(TClr.957
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.958
+	S:	"View"
+)
+
+(AVStr.959
+	S:	"Table"
+)
+
+(AVStr.960
+	S:	"Chart"
+)
+
+(AVStr.961
+	S:	"Layout"
+)
+
+(AVStr.962
+	S:	"Script"
+)
+
+(AVStr.963
+	S:	"Project"
+)
+
+(AVStr.964
+	S:	"Appl"
+)
+

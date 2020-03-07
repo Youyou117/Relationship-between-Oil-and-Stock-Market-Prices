@@ -1,0 +1,15 @@
+% Michigan.dbf file contains 1990 census information on:
+% zip code areas:
+% col 1 =  AREAKEY
+% col 2 = LATITUDE
+% col 3 = LONGITUDE
+% col 4 = 1990POP
+% col 5 = 1990EMPLOY
+% col 6 = MEDINCOME (median household income)
+% col 7 = PCINCOME  (per capita income)
+% col 8 = percent living in POVERTY
+% col 9 = # of HOUSES
+% col10 = MEDRENT
+% col11 = WHITEPOP
+% col12 = BLACKPOP
+% col13 = NATIVEPOP

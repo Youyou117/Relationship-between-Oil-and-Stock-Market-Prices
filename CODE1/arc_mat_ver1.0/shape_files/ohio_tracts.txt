@@ -1,0 +1,11 @@
+% ohio_tracts.dbf contains 1990 census information on:
+(see arc_histmapd7 demo file)
+
+% col 1 AREANAME
+% col 2 AREAKEY
+% col 3 LATITUDE
+% col 5 LONGITUDE
+% col 6 POP1990
+% col 7 MEDINCOME
+% col 8 PERCAPINCO
+% col 9 POVERTY

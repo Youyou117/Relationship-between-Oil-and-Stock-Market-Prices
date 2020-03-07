@@ -1,0 +1,11 @@
+% usstates49.dbf file contains percapita income information on:
+% (see arc_histmapd5.m demo file)
+
+% col 1 AREAKEY
+% col 2 LATITUDE
+% col 3 LONGITUDE
+% col 4 POP1990
+% col 5 percapita income in 1970
+% col 6 percapita income in 1980
+% col 7 percapita income in 1990
+% col 8 percapita income in 2000

@@ -1,0 +1,9 @@
+Ohio zip contains information for 1,008 Ohio zip code areas 
+
+% variables in ohio_zip.dbf are:
+% col1 zipcode
+% col2 zipcode 
+% col3 latitude centroid
+% col4 longitude centroid
+% col5 population in 1990
+

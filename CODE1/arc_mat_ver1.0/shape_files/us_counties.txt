@@ -1,0 +1,21 @@
+% us_counties.dbf file contains 1990 census information on:
+(see arc_histmapd4.m demo file)
+
+% results.data contains:
+% col 1 area name
+% col 2 zip code
+% col 3 LATITUDE
+% col 4 LONGITUDE
+% col 5 POP1990
+% col 6 population living in same house 5 years ago
+% col 7 POP65PLUS population 65 years old or more
+% col 8 EMPLOYMENT
+% col 9 HOUSEHLDS
+% col 10 MEDINCOME
+% col 11 PCINCOME
+% col 12 POVERTY
+% col 13 NOHOUSES
+% col 14 MEDRENT
+% col 15 WHITEPOP
+% col 16 BLACKPOP
+% col 17 NATIVPOP
